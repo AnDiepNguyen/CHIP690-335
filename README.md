@@ -39,5 +39,4 @@ Three additional boxplots were created to compare the distribution of PNC values
 
 This analysis provided a high-level overview of a dataset from a study that investigated PNC as a potential diagnostic marker for detecting subclinical heart failure in the general population. The findings are consistent with previous research, showing that PNC levels tend to be higher in participants with known heart failure risk factors such as coronary artery disease, heart attack, and high blood pressure.
 
-https://doi.org/10.1161/JAHA.122.028234
    
