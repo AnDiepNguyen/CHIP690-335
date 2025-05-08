@@ -1,6 +1,6 @@
 # Project Title
 
-Examining the distribution of serum PNC values among participants with and without key heart failure risk factors: coronary artery disease, heart attack, and high blood pressure.
+Examining the distribution of serum PNC values between participants with and without key heart failure risk factors: coronary artery disease, heart attack, and high blood pressure.
 
 ## Installation
 1. Create a virtual environment:
